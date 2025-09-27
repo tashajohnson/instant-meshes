@@ -1,4 +1,5 @@
 cmake_minimum_required (VERSION 3.5)
+DCMAKE_POLICY_VERSION_MINIMUM=3.5
 project(InstantMeshes)
 
 option(INSTANT_MESHES_DEV_MODE "Instant meshes developer mode" OFF)
